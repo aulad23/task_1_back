@@ -1,0 +1,32 @@
+.den{
+    height: 350px;
+    width: 300px;
+    background-color: rgb(251, 163, 0);
+     position: auto;
+     padding: auto;
+     margin: auto;
+}
+.many{
+    background-color: aquamarine;
+    margin-top: 10px;
+    display: flex;
+}
+.many1{
+    background-color: rgb(39, 28, 200);
+    margin-top: 10px;
+    display: flex;
+}
+.many2{
+    background-color: rgb(13, 147, 36);
+    margin-top: 10px;
+    display: flex;
+}
+.many3{
+    background-color: rgb(144, 16, 103);
+    margin-top: 10px;
+    display: flex;
+}
+
+
+
+
